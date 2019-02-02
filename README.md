@@ -23,4 +23,4 @@ First header | second header
 -------------|--------------
 a cat | a dog
 
-## an emjoi :smiley_cat:
+## an emoji :smiley_cat:
