@@ -4,7 +4,7 @@
   This is a repoistory made on today's 3IE1 class
 
 ###### Adding more text
-  Hello local world Bolded :cat2:
+  Hello local world :cat2:
   *Hello italic world* :cat2:
  __Hello bold world__ :cat2:
  *__Hello bold italic world__*
