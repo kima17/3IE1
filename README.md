@@ -26,5 +26,5 @@ a cat | a dog
 ## an emoji :smiley_cat:
 
 A quote:
-> a website about cats
+> a website about cats,
 > so good and fun
