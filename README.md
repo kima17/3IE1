@@ -6,7 +6,7 @@
 ###### Adding more text
   __Hello local world__
   
-![Github Logo](/images/scared-surprised-cat-face.jpg)
+![Github Logo](https://boygeniusreport.files.wordpress.com/2016/05/scared-surprised-cat-face.jpg?quality=98&strip=all&w=768)
 
 
 ## Cats are
