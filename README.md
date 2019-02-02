@@ -9,8 +9,8 @@
  __Hello bold world__ :cat2:
  *__Hello bold italic world__*
   
-![Github Logo](https://boygeniusreport.files.wordpress.com/2016/05/scared-surprised-cat-face.jpg?quality=98&strip=all&w=768)
-
+![a cat](https://boygeniusreport.files.wordpress.com/2016/05/scared-surprised-cat-face.jpg?quality=98&strip=all&w=768)
+![a corgi](https://cdn.akc.org/Marketplace/Breeds/Pembroke_Welsh_Corgi_SERP.jpg)
 
 ## Cats are
 1. Funny
