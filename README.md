@@ -4,9 +4,9 @@
   This is a repoistory made on today's 3IE1 class
 
 ###### Adding more text
-  Hello local world Bolded
-  *Hello italic world*
- __Hello bold world__
+  Hello local world Bolded :cat2:
+  *Hello italic world* :cat2:
+ __Hello bold world__ :cat2:
  *__Hello bold italic world__*
   
 ![Github Logo](https://boygeniusreport.files.wordpress.com/2016/05/scared-surprised-cat-face.jpg?quality=98&strip=all&w=768)
